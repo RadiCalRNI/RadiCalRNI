@@ -6,12 +6,12 @@ I'm a passionate **Frontend** Developer dedicated to crafting beautiful and func
 🚀 Currently Exploring:<br /> 
 **NestJS**: Diving deep into the world of backend development to become a full-stack maestro.<br /> 
 **Frontend** Technologies: Constantly honing my skills with the latest and greatest in frontend development.<br /> <br /> 
-🛠️ Technologies I Love:<br /> <br /> 
-Languages & Frameworks: **HTML5**, **CSS3**, **JavaScript**, **Vue 3**, **Nuxt 3**<br /> <br /> 
-Styling & UI Libraries:<br /> 
 
-Bootstrap, Tailwind CSS
-🌱 Always Learning
+🛠️ Technologies I Love:<br /> <br /> 
+Languages & Frameworks: **HTML5**, **CSS3**, **JavaScript**, **Vue 3**, **Nuxt 3**<br />
+Styling & UI Libraries: **Bootstrap**, **Tailwind CSS** <br />  <br /> 
+
+🌱 Always Learning: <br /> 
 I'm a lifelong learner, currently expanding my knowledge and capabilities in:
 
 Building scalable and efficient web applications with NestJS.
