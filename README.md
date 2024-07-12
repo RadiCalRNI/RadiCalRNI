@@ -8,8 +8,10 @@ I'm a passionate **Frontend** Developer dedicated to crafting beautiful and func
 * **Frontend** Technologies: Constantly honing my skills with the latest and greatest in frontend development.<br /> <br /> 
 
 🛠️ Technologies I Love<br />
-Languages & Frameworks: **HTML5**, **CSS3**, **JavaScript**, **Vue 3**, **Nuxt 3**<br />
-Styling & UI Libraries: **Bootstrap**, **Tailwind CSS** <br />  <br /> 
+* Languages & Frameworks:
+* **HTML5**, **CSS3**, **JavaScript**, **Vue 3**, **Nuxt 3**<br />
+* Styling & UI Libraries:
+* **Bootstrap**, **Tailwind CSS** <br />  <br /> 
 
 🌱 Always Learning: <br /> 
 I'm a lifelong learner, currently expanding my knowledge and capabilities in:
