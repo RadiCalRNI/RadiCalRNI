@@ -1,16 +1,15 @@
-👋 Hey there! I'm Mohammad Rouhani (aka @RadiCalRNI)
+👋 Hey there! I'm Mohammad Rouhani (aka @RadiCalRNI)<br /> 
 🌟 About Me<br /> 
-I'm a passionate Frontend Developer dedicated to crafting beautiful and functional web experiences. With a keen eye for design and a drive for innovation, I thrive on bringing ideas to life in the digital realm.
+I'm a passionate **Frontend** Developer dedicated to crafting beautiful and functional web experiences. With a keen eye for design and a drive for innovation, I thrive on bringing ideas to life in the digital realm.<br /> 
 
-🚀 Currently Exploring
-NestJS: Diving deep into the world of backend development to become a full-stack maestro.
-Frontend Technologies: Constantly honing my skills with the latest and greatest in frontend development.
-🛠️ Technologies I Love
+🚀 Currently Exploring<br /> 
+**NestJS**: Diving deep into the world of backend development to become a full-stack maestro.<br /> 
+**Frontend** Technologies: Constantly honing my skills with the latest and greatest in frontend development.<br /> 
+🛠️ Technologies I Love<br /> 
 Languages & Frameworks:
 
-HTML5, CSS3, JavaScript
-Vue 3, Nuxt 3
-Styling & UI Libraries:
+**HTML5**, **CSS3**, **JavaScript**, **Vue 3**, **Nuxt 3**<br /> 
+Styling & UI Libraries:<br /> 
 
 Bootstrap, Tailwind CSS
 🌱 Always Learning
