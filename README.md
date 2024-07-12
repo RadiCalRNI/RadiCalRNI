@@ -1,4 +1,4 @@
-👋 Hey there! I'm Mohammad Rouhani (aka @RadiCalRNI)<br /> 
+👋 Hey there! I'm **Mohammad Rouhani** (aka **@RadiCalRNI**)<br /> <br /> 
 🌟 About Me<br /> 
 I'm a passionate **Frontend** Developer dedicated to crafting beautiful and functional web experiences. With a keen eye for design and a drive for innovation, I thrive on bringing ideas to life in the digital realm.<br /> 
 
