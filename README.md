@@ -33,7 +33,7 @@ I'm a lifelong learner, currently expanding my knowledge and capabilities in:
 
 I'm always open to connecting with fellow developers, collaborators, or anyone interested in tech. Feel free to reach out!
 
-- **Phone**: +98-369333230
+- **Phone**: +98-9369333230
 - **Email**: mohammadneuer1@gmail.com
 
 Let's create something amazing together!
