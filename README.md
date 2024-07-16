@@ -29,7 +29,6 @@ I'm a lifelong learner, currently expanding my knowledge and capabilities in:
 - Building scalable and efficient web applications with **NestJS**.
 - Enhancing user experiences with modern frontend frameworks like **Vue 3** and **Nuxt 3**.
 
-<br />
 ##### Languages I use
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
