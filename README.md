@@ -31,27 +31,31 @@ I'm a lifelong learner, currently expanding my knowledge and capabilities in:
 
 ##### Languages I use
 
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![HTML5 Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=white)
-![NodeJS Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss%20-%2306B6D4.svg?&style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js%20-%234FC08D.svg?&style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/nuxt.js%20-%2300C58E.svg?&style=flat&logo=nuxt.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=flat&logo=nestjs&logoColor=white)
+
 
 
 ##### Some of the technologies I have worked with
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=222222)
-![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
-![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=GitLab&logoColor=FCC624)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat&logo=intellij-idea&logoColor=FFFFFF)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=FFFFFF)
-![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
+![Vuex](https://img.shields.io/badge/vuex-%234FC08D.svg?&style=flat&logo=vuex&logoColor=white)
+![Pinia](https://img.shields.io/badge/pinia-%23c69d66.svg?&style=flat&logo=vue.js&logoColor=white)
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadiCalRNI)](https://github.com/RadiCalRNI/github-readme-stats)
