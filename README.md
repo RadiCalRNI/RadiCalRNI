@@ -31,16 +31,16 @@ I'm a lifelong learner, currently expanding my knowledge and capabilities in:
 
 ##### Languages I use
 
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss%20-%2306B6D4.svg?&style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js%20-%234FC08D.svg?&style=flat&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/nuxt.js%20-%2300C58E.svg?&style=flat&logo=nuxt.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=flat&logo=nestjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/Html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwindcss%20-%2306B6D4.svg?&style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue%20-%234FC08D.svg?&style=flat&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt%20-%2300C58E.svg?&style=flat&logo=nuxt.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nestjs%20-%23E0234E.svg?&style=flat&logo=nestjs&logoColor=white)
 
 
 
@@ -52,9 +52,9 @@ I'm a lifelong learner, currently expanding my knowledge and capabilities in:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat&logo=intellij-idea&logoColor=FFFFFF)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-![Vuex](https://img.shields.io/badge/vuex-%234FC08D.svg?&style=flat&logo=vuex&logoColor=white)
-![Pinia](https://img.shields.io/badge/pinia-%23c69d66.svg?&style=flat&logo=vue.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
+![Vuex](https://img.shields.io/badge/Vuex-%234FC08D.svg?&style=flat&logo=vuex&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-%23c69d66.svg?&style=flat&logo=vue.js&logoColor=white)
 
 
 
